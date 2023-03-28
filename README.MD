@@ -1,1 +1,3 @@
-<h1>Objetivo do Projeto</h1>
+# **Objetivo do Projeto**
+
+> Desenvolver um projeto, cujo objetivo é entregar um site sobre informática básica.
